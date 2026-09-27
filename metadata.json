@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sipariş Onay ve Başarı Sayfası",
+  "description": "Ödeme tamamlandıktan sonraki sipariş takip, kargoya verildi ve teslim edildi aşamalarını içeren e-ticaret sipariş takip sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
